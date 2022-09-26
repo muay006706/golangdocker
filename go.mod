@@ -1,4 +1,4 @@
-module github.com/olliefr/docker-gs-ping
+module github.com/muay006706/golangdocker
 
 go 1.16
 
